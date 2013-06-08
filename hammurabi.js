@@ -1,5 +1,7 @@
 // This is the game state.
 
+var gameState;
+
 gameState = {
 	year : 0,
 	starved : 0,
