@@ -1,3 +1,3 @@
 # Hammurabi
 
-An HTML5 implementation of the classical game Hammurabi.
+A JavaScript implementation of the classical game Hammurabi.
